@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  /* background-image: url('./lexgo.png'); */
+  background-size: cover;
+  box-sizing: border-box;
+ 
+}
+.logoo {
+  width: 170px;
+  height: 80px;
+}
+.check {
+ width: 22px;
+ height: 22px;
+}
+a{ 
+  text-decoration: none;
+}
